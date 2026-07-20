@@ -6,3 +6,5 @@
 - Year = 2026
 
 ## Successfully remote this branch to local
+
+Plotting for the next development, stay tuned!
